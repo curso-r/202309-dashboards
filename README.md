@@ -4,7 +4,7 @@
 ## Informações importantes
 
 - [Clique
-  aqui](https://github.com/curso-r/202309-dashboards/archive/refs/heads/main.zip)
+  aqui](https://raw.githubusercontent.com/curso-r/main-dashboards/master/material_do_curso.zip)
   para baixar o material do curso.
 
 - Nosso blog: <https://curso-r.com/blog/>
@@ -29,31 +29,19 @@ Fora do horário de aula ou monitoria:
 
 ## Slides
 
-| Slide |
-|:------|
+| slides                                                                                                      | pdf                                                                                                       |
+|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|
+| [01-introducao_ao_curso.html](https://curso-r.github.io/main-dashboards/slides/01-introducao_ao_curso.html) | [01-introducao_ao_curso.pdf](https://curso-r.github.io/main-dashboards/slides/01-introducao_ao_curso.pdf) |
+| [02-shiny-introducao.html](https://curso-r.github.io/main-dashboards/slides/02-shiny-introducao.html)       | [02-shiny-introducao.pdf](https://curso-r.github.io/main-dashboards/slides/02-shiny-introducao.pdf)       |
+| [03-reatividade-parte-1.html](https://curso-r.github.io/main-dashboards/slides/03-reatividade-parte-1.html) | [03-reatividade-parte-1.pdf](https://curso-r.github.io/main-dashboards/slides/03-reatividade-parte-1.pdf) |
+| [04-layouts.html](https://curso-r.github.io/main-dashboards/slides/04-layouts.html)                         | [04-layouts.pdf](https://curso-r.github.io/main-dashboards/slides/04-layouts.pdf)                         |
+| [05-reatividade-parte-2.html](https://curso-r.github.io/main-dashboards/slides/05-reatividade-parte-2.html) | [05-reatividade-parte-2.pdf](https://curso-r.github.io/main-dashboards/slides/05-reatividade-parte-2.pdf) |
+| [06-htmlwidgets.html](https://curso-r.github.io/main-dashboards/slides/06-htmlwidgets.html)                 | [06-htmlwidgets.pdf](https://curso-r.github.io/main-dashboards/slides/06-htmlwidgets.pdf)                 |
 
 ## Scripts utilizados em aula
 
 | Exemplo |
 |:--------|
-
-## Práticas
-
-| Exemplo |
-|:--------|
-
-## Lição de casa
-
-| Exercício |
-|:----------|
-
-## Material extra
-
-Referências extras relacionadas com o conteúdos das aulas, ou materiais
-que comentamos quando tiramos dúvidas (não necessariamente são
-relacionadas com o conteúdo da aula).
-
-    #> Em breve!
 
 ## Redes sociais da Curso-R
 
