@@ -1,0 +1,13 @@
+name: exemploCurso202309
+title: exemploCurso202309
+username: rseis
+account: rseis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9875891
+bundleId: 7686580
+url: https://rseis.shinyapps.io/exemploCurso202309/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: _config.yml|_layouts/default.html|.github/workflows/render-readme.yaml|dados/cetesb.rds|dados/credito.rds|dados/imdb.rds|dados/pkmn.rds|dados/ssp.rds|pratica/01-ola-mundo.R|pratica/02-inputs.R|pratica/03-output.R|pratica/04-input-output.R|README.md|README.Rmd|assets

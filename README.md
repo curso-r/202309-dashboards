@@ -40,8 +40,13 @@ Fora do horário de aula ou monitoria:
 
 ## Scripts utilizados em aula
 
-| Exemplo |
-|:--------|
+| Exemplo                                                                                                  |
+|:---------------------------------------------------------------------------------------------------------|
+| [01-ola-mundo.R](https://curso-r.github.io/202309-dashboards/pratica/01-ola-mundo.R)                     |
+| [02-inputs.R](https://curso-r.github.io/202309-dashboards/pratica/02-inputs.R)                           |
+| [03-output.R](https://curso-r.github.io/202309-dashboards/pratica/03-output.R)                           |
+| [04-input-output.R](https://curso-r.github.io/202309-dashboards/pratica/04-input-output.R)               |
+| [05-dois-inputs-outputs.R](https://curso-r.github.io/202309-dashboards/pratica/05-dois-inputs-outputs.R) |
 
 ## Redes sociais da Curso-R
 
