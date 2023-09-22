@@ -47,6 +47,8 @@ Fora do horário de aula ou monitoria:
 | [03-output.R](https://curso-r.github.io/202309-dashboards/pratica/03-output.R)                           |
 | [04-input-output.R](https://curso-r.github.io/202309-dashboards/pratica/04-input-output.R)               |
 | [05-dois-inputs-outputs.R](https://curso-r.github.io/202309-dashboards/pratica/05-dois-inputs-outputs.R) |
+| [06-exemplo-amostra.R](https://curso-r.github.io/202309-dashboards/pratica/06-exemplo-amostra.R)         |
+| [07-exemplo_botao.R](https://curso-r.github.io/202309-dashboards/pratica/07-exemplo_botao.R)             |
 
 ## Redes sociais da Curso-R
 
