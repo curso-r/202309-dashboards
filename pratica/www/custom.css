@@ -1,0 +1,20 @@
+h1 {
+  color: #0ca146;
+}
+
+p {
+  font-size: 14pt;
+}
+
+.vermelho {
+  border-color: red;
+  color: red;
+}
+
+hr {
+  border-top: 10px dashed #eee;
+}
+
+#hr_verde {
+  border-color: darkgreen;
+}
