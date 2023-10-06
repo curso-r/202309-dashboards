@@ -53,6 +53,9 @@ Fora do horário de aula ou monitoria:
 | [09-exemplo_bootstrap.R](https://curso-r.github.io/202309-dashboards/pratica/09-exemplo_bootstrap.R)     |
 | [10-sidebarLayout.R](https://curso-r.github.io/202309-dashboards/pratica/10-sidebarLayout.R)             |
 | [11-navbarPage.R](https://curso-r.github.io/202309-dashboards/pratica/11-navbarPage.R)                   |
+| [12-shinydashboard.R](https://curso-r.github.io/202309-dashboards/pratica/12-shinydashboard.R)           |
+| [13-bslib.R](https://curso-r.github.io/202309-dashboards/pratica/13-bslib.R)                             |
+| [14-bs4Dash.R](https://curso-r.github.io/202309-dashboards/pratica/14-bs4Dash.R)                         |
 
 ## Redes sociais da Curso-R
 
