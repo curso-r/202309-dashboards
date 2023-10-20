@@ -56,6 +56,9 @@ Fora do horário de aula ou monitoria:
 | [12-shinydashboard.R](https://curso-r.github.io/202309-dashboards/pratica/12-shinydashboard.R)           |
 | [13-bslib.R](https://curso-r.github.io/202309-dashboards/pratica/13-bslib.R)                             |
 | [14-bs4Dash.R](https://curso-r.github.io/202309-dashboards/pratica/14-bs4Dash.R)                         |
+| [15-observe.R](https://curso-r.github.io/202309-dashboards/pratica/15-observe.R)                         |
+| [16-observeEvent.R](https://curso-r.github.io/202309-dashboards/pratica/16-observeEvent.R)               |
+| [17-reactiveVal.R](https://curso-r.github.io/202309-dashboards/pratica/17-reactiveVal.R)                 |
 
 ## Redes sociais da Curso-R
 
